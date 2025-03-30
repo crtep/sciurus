@@ -1,6 +1,6 @@
 # SCIURus: Shared Circuits for Interpretable Uncertainty Representations in Language Models
 
-[Link to paper](https://tinyurl.com/sciurus-drive)
+[Link to paper](https://crtep.com/sciurus_paper.pdf)
 
 ---
 
